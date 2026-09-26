@@ -1,0 +1,5 @@
+{
+  "name": "BinauralForge",
+  "description": "A professional-grade web editor for binaural beats, compatible with SBaGen-style scripts. Features real-time synthesis, visual timeline editing, and script manipulation.",
+  "requestFramePermissions": []
+}
